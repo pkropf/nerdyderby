@@ -11,6 +11,10 @@ Scouts' Pinewood Derby. With a larger, more undulating track and no
 restrictions on the size of the cars or materials participants can
 use, the Nerdy Derby rewards creativity, cleverness and ingenuity."
 
+The work represented by these files is intended to help others create
+their own tracks and may cause more harm than help. Verify, recheck
+and then recheck again everything before you use these files.
+
 
 Files
 -----
@@ -53,6 +57,11 @@ segments. This was approximately 4 hours of work.
 
 Glue up of the segments took approximately 5 hours. First assembly
 took an additional hour. Standing the track took another 2 hours.
+
+There's another 2 or 3 hours used to buy supplies, transport
+materials, etc.
+
+The design work consumed on the order of 6 hours.
 
 
 Notes

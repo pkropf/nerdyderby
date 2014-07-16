@@ -76,3 +76,17 @@ Notes
     ShopBot. By not doing this, some amount of time was used to just
     organize the segments so that the correct ones were glued
     together.
+
+  * Don't forget to zero the z axis. The ShopBot doesn't know and will
+    happily carve into your material and possibly break bits and
+    parts.
+
+  * In VCarve Pro, set up 2 tabs per piece, especially for longer pieces.
+
+  * The default 1/8" tab is too shallow for plywood. Use 1/4" tabs.
+
+  * Ensure that the tabs aren't being cut by a previous or following pass.
+
+  * Make sure tabs aren't connected to other pieces that are cut out.
+
+  * The ShopBot files were exported from VCarve Pro as Shopbot alpha w/ speed.
